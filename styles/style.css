@@ -100,7 +100,7 @@
 }
 
 .events {
-  padding: 100px 0 120px 80px
+  padding: 100px 0 120px 80px;
   display: flex;
   align-items: start;
   justify-content: space-between;
@@ -390,7 +390,7 @@
   line-height: 30px;
   font-weight: 400;
   max-width: 660px;
-  z-indez: 2;
+  z-index: 2;
 }
 
 .about__paragraph {
