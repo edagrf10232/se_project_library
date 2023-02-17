@@ -36,6 +36,7 @@
   list-style-type: none;
   padding: 0;
   margin-top: 8px;
+  margin-bottom: 0;
 }
 
 .nav__link {
@@ -61,6 +62,7 @@
   font-size: 20px;
   line-height: 30px;
   margin-top: 32px;
+  margin-bottom: 0;
 }
 
 .header__image {
@@ -98,9 +100,7 @@
 }
 
 .events {
-  padding-top: 135px;
-  padding-right: 20px;
-  max-width: 636px;
+  padding: 100px 0 120px 80px
   display: flex;
   align-items: start;
   justify-content: space-between;
@@ -245,7 +245,7 @@
   padding-top: 100px;
   padding-bottom: 140px;
   display: block;
-  background-image: url(se_project_library/images/staff_picks_background.jpg);
+  background-image: url(../images/staff_picks_background.jpg);
   background-position: bottom;
   background-size: cover;
 }
@@ -390,7 +390,7 @@
   line-height: 30px;
   font-weight: 400;
   max-width: 660px;
-  z-indez: 0;
+  z-indez: 2;
 }
 
 .about__paragraph {
